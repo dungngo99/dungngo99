@@ -9,6 +9,6 @@
 🌱 I’m currently learning Prefect, Kedro, and Mlflow
 💬 Ask me or update me anything about Machine Learning, Data Science, and Web Development
 
-![image](https://aroundofwordsin80days.files.wordpress.com/2019/07/zealouscourageousgibbon-size_restricted.gif)
+<img src="https://aroundofwordsin80days.files.wordpress.com/2019/07/zealouscourageousgibbon-size_restricted.gif" style="max-height: 500x; max-width: 500px;" />
 
 ⚡ Fun fact: I love cooking, photography, and chess.
