@@ -11,4 +11,4 @@
 
 <img src="https://aroundofwordsin80days.files.wordpress.com/2019/07/zealouscourageousgibbon-size_restricted.gif" height=250 width=250/>
 
-⚡ Fun fact: I love cooking, photography, and chess.
+⚡ Fun fact: I love corgi, cooking, photography, and chess.
