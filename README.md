@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
 
-<!--
-**dungngo99/dungngo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm a senior at Tulane, majoring in Computer Science and Math.
+🔭 I’m currently a summer intern at Tradeweb, working on 
+  > Prophet for time-series forecasting models
+  > Kedro for building data pipeline
+  > Finish my personal project about a web-based app with movie recommendation features
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Prefect, Kedro, and Mlflow
+💬 Ask me or update me anything about Machine Learning, Data Science, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://aroundofwordsin80days.files.wordpress.com/2019/07/zealouscourageousgibbon-size_restricted.gif)
+
+⚡ Fun fact: I love cooking, photography, and chess.
