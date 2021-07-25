@@ -1,7 +1,7 @@
 ### Hi there, I'm Dylan 👋
 
 ✨ I'm a rising senior at Tulane, majoring in Computer Science and Math.<br>
-🎯 I'm actively looking for a Spring Summer Internship or Full-time role in Software Engineering <br>
+🎯 I'm actively looking for a full-time role in Software Engineering <br>
 
 🔭 I’m currently a summer intern at Tradeweb, New Jersey, working on <br>
   > Prophet for time-series forecasting models<br>
