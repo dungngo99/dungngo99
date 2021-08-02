@@ -8,7 +8,7 @@
   > Kedro for building data pipeline<br>
 
 🌱 I’m currently learning Prefect, Kedro, and Mlflow <br>
-💬 Ask me or update me anything about Data Science and Web Development <br>
+💬 Ask me or update me anything about Data Science, Engineering, and Infrastructure<br>
 
 <img src="https://aroundofwordsin80days.files.wordpress.com/2019/07/zealouscourageousgibbon-size_restricted.gif" height=250 width=250/>
 
