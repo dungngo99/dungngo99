@@ -4,7 +4,7 @@
 🎯 I'm actively looking for a full-time role in Data Engineering or Data Science in Summer 2022<br>
 
 🔭 Please check out some of my cool repositories<br>
-  > Full-stack project in web-based movies dashboard with React and CubeJS<br>
+  > Interactive dasboard to track daily performance of popular NYSE stocks <br>
   > Data Science project, such as Airbnb Listing Price Prediction<br>
   > Learning space for Distributed System class at Tulane<br>
   > Web development series where I learned about HTML/CSS/JS and React<br>
