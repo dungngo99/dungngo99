@@ -1,1 +1,1 @@
-### Hi, I'm Dung (Dylan) Ngo, a backend engineer at Zoom.<br>
+### Backend Engineer at Zoom, currently building tools in Java from scratch with CodeCrafters.
